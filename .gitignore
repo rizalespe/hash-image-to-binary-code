@@ -4,6 +4,12 @@ images/*
 model/*
 output/*
 
+!data/.keep
+!images/.keep
+!model/.keep
+!output/.keep
+
+
 
 
 # Byte-compiled / optimized / DLL files
